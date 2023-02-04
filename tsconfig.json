@@ -2,7 +2,7 @@
   "compilerOptions": {
     "allowSyntheticDefaultImports": true,
     "module": "Node16",
-    "moduleResolution": "Node16",
+    "moduleResolution": "Node",
     "outDir": "dist",
     "strict": true,
     "target": "ES2019"
