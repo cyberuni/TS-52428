@@ -11,7 +11,7 @@
     "test": "node ./dist/index.js"
   },
   "dependencies": {
-    "@types/node": "^18.11.18"
+    "@types/node": "^26.0.0"
   },
   "devDependencies": {
     "typescript": "^4.9.4"
