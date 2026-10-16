@@ -14,7 +14,7 @@
     "@types/node": "^18.11.18"
   },
   "devDependencies": {
-    "typescript": "^4.9.4"
+    "typescript": "^7.0.0"
   },
   "packageManager": "pnpm@7.26.3"
 }
